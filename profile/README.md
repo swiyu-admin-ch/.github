@@ -1,5 +1,7 @@
 # Welcome to the Swiss Trust Infrastructure ecosystem
 
+![github-banner](https://github.com/swiyu-admin-ch/swiyu-admin-ch.github.io/blob/main/assets/images/github-banner.jpg)
+
 ## Introduction
 The Federal Act on Electronic Identity and Other Electronic Credentials (BGEID) that was adopted by the Council of States and the National Council on December 20th 2024 sets the foundation for the establishment of the Swiss Trust Infrastructure.  
 
