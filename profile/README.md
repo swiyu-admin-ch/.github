@@ -1,4 +1,4 @@
-# Welcome to the Swiss Trust Infrastructure ecosystem
+# Welcome to the swiyu Public Beta Trust Infrastructure ecosystem
 
 ![github-banner](https://github.com/swiyu-admin-ch/swiyu-admin-ch.github.io/blob/main/assets/images/github-banner.jpg)
 
@@ -10,19 +10,19 @@ The Swiss Trust Infrastructure based on the BGEID ensures that data handling and
 The BGEID aims to address foundational identity and trust needs for public and private services in Switzerland with an approach that is built around the model of an Identity Wallet App (e.g. the federally provided swiyu wallet) where other means of identification and authentication can also be stored, managed and utilized. The Swiss Trust Infrastructure is thus going beyond the provisioning of the e-ID alone. Next to the provision of an e-ID for all Swiss nationals, inhabitants and residents, the initiative provides a Trust Infrastructure to enable an ecosystem for both the public and private sector. Ecosystem participants will be able to issue and verify credentials such as the e-ID to anyone who is in possession of an Identity Wallet App that meets the technical requirements. 
 
 ## Public Beta
-The Public Beta environment is designed to test and refine the e-ID technology stack. Participants will be able to explore and experiment with various use cases, including:
+The Public Beta environment is designed to test and refine the e-ID technology stack. Participants will be able to explore and experiment with various components, including:
 
-- **Base Registry**: Entities can onboard, update, or offboard as issuers and verifiers within the ecosystem. The base registry will manage the public keys as part of the diddoc required for ecosystem interactions. Status lists containing information related to credential validity can be managed. 
+- **swiyu Base Registry**: Entities can onboard, update, or offboard as issuers and verifiers within the ecosystem. The base registry will manage the public keys as part of the diddoc required for ecosystem interactions. Status lists containing information related to credential validity can be managed. 
 
-- **Trust Registry**: Entities can prove and maintain their status as verified issuers or verifiers, ensuring additional trust within the ecosystem. Users will be able to see the verification status of issuers and verifiers in their wallets and verifiers are able to validate the trust-status of the issuers.
+- **swiyu Trust Registry**: Entities can prove and maintain their status as verified issuers or verifiers, ensuring additional trust within the ecosystem. Users will be able to see the verification status of issuers and verifiers in their wallets and verifiers are able to validate the trust-status of the issuers.
 
-- **Issuers**: Entities can issue, revoke, suspend, and reactivate Verifiable Credentials (VCs), using the generic reference issuer implementation provided by the federal government. Please ensure to follow the specifications.
+- **swiyu Generic Issuer**: Entities can issue, revoke, suspend, and reactivate Verifiable Credentials (VCs), using the generic reference issuer implementation provided by the federal government. Please ensure to follow the specifications.
 
-- **Verifiers**: Entities can integrate the reference verifier implementation to verify VCs, ensuring cryptographic integrity and validity according to their specific needs.
+- **swiyu Generic Verifier**: Entities can integrate the reference verifier implementation to verify VCs, ensuring cryptographic integrity and validity according to their specific needs.
 
-- **Holders**: Users will be able to download the public beta wallet, request Beta-ID credentials for testing purpose, manage their VCs and interact with the ecosystem.
+- **swiyu App**: Users will be able to download the swiyu Public Beta wallet, request Beta-ID credentials for testing purpose, manage their VCs and interact with the ecosystem.
 
-For a basic introduction to the Public Beta please consult the [factsheet on eid.admin.ch](https://backend.eid.admin.ch/fileservice/sdweb-docs-prod-eidch-files/files/2024/10/24/fdbcf1fa-7f33-4f27-80d6-44f14d991939.pdf)
+For a basic introduction to the swiyu Public Beta please consult the [e-ID website](https://www.eid.admin.ch/de/public-beta)
 
 ## Open Source & Community
 
