@@ -8,7 +8,7 @@ The Federal Act on Electronic Identity and Other Electronic Credentials (BGEID) 
 
 The Swiss Trust Infrastructure based on the BGEID ensures that data handling and storage comply with strict legal safeguards like data minimization and decentralization. Citizens have been actively engaged throughout the project, with significant input from stakeholders across civil society, government, and industry to ensure the Swiss Trust Infrastructure is taking expectations from the public into account. The system design prioritizes privacy, user autonomy, and accessibility to garner widespread support and adoption. As one aspect of the Swiss Trust Infrastructure, it will provide a secure, state-recognized digital identity, the e-ID that fosters public confidence while aligning with Switzerland’s democratic values and participatory decision-making process.
 
-The BGEID aims to address foundational identity and trust needs for public and private services in Switzerland with an approach that is built around the model of an Identity Wallet App (e.g. the federally provided swiyu wallet) where other means of identification and authentication can also be stored, managed and utilized. The Swiss Trust Infrastructure is thus going beyond the provisioning of the e-ID alone. Next to the provision of an e-ID for all Swiss nationals, inhabitants and residents, the initiative provides a Trust Infrastructure to enable an ecosystem for both the public and private sector. The [e-iD website](https://www.eid.admin.ch/en) contains more general information as well as an introduction to Public Beta for private individuals, issuers and verifiers.
+The BGEID aims to address foundational identity and trust needs for public and private services in Switzerland with an approach that is built around the model of an Identity Wallet App (e.g. the federally provided swiyu wallet) where other means of identification and authentication can also be stored, managed and utilized. The Swiss Trust Infrastructure is thus going beyond the provisioning of the e-ID alone. Next to the provision of an e-ID for all Swiss nationals, inhabitants and residents, the initiative provides a Trust Infrastructure to enable an ecosystem for both the public and private sector. The [e-iD website](https://www.eid.admin.ch/en) contains more general information as well as an introduction to [Public Beta](https://www.eid.admin.ch/en/public-beta-e) for private individuals, issuers and verifiers.
 
 ## Public Beta
 
@@ -23,8 +23,6 @@ The Public Beta environment is designed to test and refine the e-ID technology s
 - **swiyu Generic Verifier**: Entities can integrate the reference verifier implementation to verify VCs, ensuring cryptographic integrity and validity according to their specific needs.
 
 - **swiyu App**: Users will be able to download the swiyu Public Beta wallet, request Beta-ID credentials for testing purpose, manage their VCs and interact with the ecosystem.
-
-For a basic introduction to the swiyu Public Beta please consult the [e-ID website](https://www.eid.admin.ch/de/public-beta)
 
 ## Technical documentation and specifications
 
